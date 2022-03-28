@@ -1,6 +1,6 @@
 #import random module into our code
 import random 
-random_integer = rondom.randint(1,10)
+random_integer = random.randint(1,10)
 print(random_integer)
 
 #Heads or Tails exercise: 
