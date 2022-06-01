@@ -21,5 +21,5 @@ for n in range (1, 100):
 	elif n % 3 ==0:
 		print ("Fizz")
 
-	else 
-	print(n)
+	else: 
+		print(n)
